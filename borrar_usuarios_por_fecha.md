@@ -17,4 +17,3 @@ echo "$IDS" | wc -w
 
 <!-- 3 Borrar SIN reasignar (seguro y rápido) -->
 wp --yes --skip-plugins --skip-themes user delete $IDS
-´´´
