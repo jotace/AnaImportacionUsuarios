@@ -1,6 +1,6 @@
 ### BORRAR USUARIOS POR FECHA
 
-´´´bash
+```bash
 START_UTC='2025-09-15 00:00:00'
 END_UTC='2025-09-15 23:59:00'
 PFX=$(wp db prefix)
